@@ -83,6 +83,5 @@ This repository documents my learnings and practical exercises from the **2-day 
 
 Feel free to explore, fork, and connect if you’re interested in similar cybersecurity practices. 🧩  
 
-📬 **Author:** [Snehashree N](https://github.com/Snehaashree)  
-🎓 **Program:** MCA (Master of Computer Applications)  
+📬 **Author:** [Snehashree N](https://github.com/Snehaashree)    
 🔒 **Focus Areas:** Web Security | Phishing | Anonymity | Ethical Hacking  
