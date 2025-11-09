@@ -25,11 +25,11 @@ We deployed vulnerable applications, simulated phishing attacks, and explored on
 
 - **Run Juice Shop (Docker, quickest):**
 docker run --rm -p 8080:3000 bkimminich/juice-shop
-# then open http://localhost:8080
+## then open http://localhost:8080
 Start GoPhish (if installed on Kali):
 cd gophish
 ./gophish
-# open https://localhost:3333 (credentials shown in terminal)
+## open https://localhost:3333 (credentials shown in terminal)
 Launch Tor Browser:
 torbrowser-launcher
 
@@ -83,8 +83,7 @@ This helped us **revisit key concepts**, share insights, and strengthen our **co
 - Learned how phishing attacks are planned, executed, and analyzed.  
 - Gained awareness of anonymity, encryption, and safe browsing practices.  
 - Strengthened both **offensive (red team)** and **defensive (blue team)** cybersecurity perspectives.
-- 
-## Independent setup notes:
+Independent setup notes:
 Independently from the instructor’s QEMU workflow, I also explored alternate deployments during the lab. I configured the built-in GoPhish instance available on Kali and launched a quick phishing test in two simple steps. I additionally cloned the OWASP Juice Shop repository and ran the application on my Kali VM using Docker (git clone ... + docker run), to verify that the target works on the VM environment as well. This independent practice helped me validate multiple deployment methods and solidify my hands-on experience.
 ---
 
