@@ -82,7 +82,7 @@ This helped us **revisit key concepts**, share insights, and strengthen our **co
 - Understood practical web exploitation techniques and their mitigations.  
 - Learned how phishing attacks are planned, executed, and analyzed.  
 - Gained awareness of anonymity, encryption, and safe browsing practices.  
-- Strengthened both **offensive (red team)** and **defensive (blue team)** cybersecurity perspectives.
+- Strengthened both **offensive (red team)** and **defensive (blue team)** cybersecurity perspectives.<br>
 Independent setup notes:
 Independently from the instructor’s QEMU workflow, I also explored alternate deployments during the lab. I configured the built-in GoPhish instance available on Kali and launched a quick phishing test in two simple steps. I additionally cloned the OWASP Juice Shop repository and ran the application on my Kali VM using Docker (git clone ... + docker run), to verify that the target works on the VM environment as well. This independent practice helped me validate multiple deployment methods and solidify my hands-on experience.
 ---
