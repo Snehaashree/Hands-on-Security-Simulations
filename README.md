@@ -1,5 +1,5 @@
-# Hands-on-Security-Simulations
-Cybersecurity Workshop Report
+# 🛡️ Cybersecurity Workshop Report
+
 **Trainer:** Mr. Radhe Shyam – Cybersecurity Expert  
 **Duration:** 2 Days  
 **Mode:** Hands-on Practical Sessions  
@@ -7,21 +7,21 @@ Cybersecurity Workshop Report
 ---
 
 ## 🧠 Overview
-This workshop focused on practical cybersecurity skills through real-world attack and defense simulations.  
+This workshop focused on developing **practical cybersecurity skills** through real-world attack and defense simulations.  
 We deployed vulnerable applications, simulated phishing attacks, and explored online anonymity tools.
 
 ---
 
 ## ⚙️ Tools & Technologies Used
-- **Quick Emulator (QEMU)** – Virtual machine deployment  
-- **OWASP Juice Shop** – Web application vulnerability testing  
-- **GoPhish** – Phishing simulation and awareness  
-- **Tor Browser** – Anonymity and secure browsing  
+- 🖥️ **Quick Emulator (QEMU)** – Virtual machine deployment  
+- 🧃 **OWASP Juice Shop** – Web application vulnerability testing  
+- ✉️ **GoPhish** – Phishing simulation and awareness  
+- 🕵️‍♂️ **Tor Browser** – Anonymity and secure browsing  
 
 ---
 
 ## 🔍 Day 1: Web Vulnerabilities (OWASP Juice Shop)
-- Deployed OWASP Juice Shop on a virtual machine using **Quick Emulator (QEMU)**.  
+- Deployed **OWASP Juice Shop** on a virtual machine using **Quick Emulator (QEMU)**.  
 - Accessed the vulnerable web app via **port 8080** in the browser.  
 - Explored and exploited **OWASP Top 10 vulnerabilities**, including:
   - Cross-Site Scripting (XSS)
@@ -59,7 +59,9 @@ We deployed vulnerable applications, simulated phishing attacks, and explored on
 
 ---
 
-At the end of each session, we had a **reflection and Q&A round** where the trainer asked both technical and non-technical questions related to the previous activities. This helped us revisit key concepts, share our takeaways, and improve our communication and analytical thinking.
+## 🗣️ Reflection & Q&A
+At the end of each session, we had a **reflection and Q&A round** where the trainer asked both technical and non-technical questions related to the previous activities.  
+This helped us **revisit key concepts**, share insights, and strengthen our **communication and analytical thinking**.
 
 ---
 
@@ -67,12 +69,12 @@ At the end of each session, we had a **reflection and Q&A round** where the trai
 - Understood practical web exploitation techniques and their mitigations.  
 - Learned how phishing attacks are planned, executed, and analyzed.  
 - Gained awareness of anonymity, encryption, and safe browsing practices.  
-- Strengthened both **offensive (red team)** and **defensive (blue team)** security perspectives.  
+- Strengthened both **offensive (red team)** and **defensive (blue team)** cybersecurity perspectives.  
 
 ---
 
 ## 🏁 Outcome
-This workshop enhanced my **hands-on cybersecurity experience**, improved my understanding of **ethical hacking**, and provided exposure to real-world **cyber defense strategies**.
+This workshop enhanced my **hands-on cybersecurity experience**, deepened my understanding of **ethical hacking**, and provided exposure to real-world **cyber defense strategies**.
 
 ---
 
@@ -81,15 +83,6 @@ This repository documents my learnings and practical exercises from the **2-day 
 
 Feel free to explore, fork, and connect if you’re interested in similar cybersecurity practices. 🧩  
 
-📬 **Author:** [Snehashree N](https://github.com/Snehaashree)   
+📬 **Author:** [Snehashree N](https://github.com/Snehaashree)  
+🎓 **Program:** MCA (Master of Computer Applications)  
 🔒 **Focus Areas:** Web Security | Phishing | Anonymity | Ethical Hacking  
-
----
-
-## 🗂️ Folder Structure
-│
-├── README.md
-└── images/
-├── juice-shop.png
-├── gophish-dashboard.png
-└── tor-browser.png
