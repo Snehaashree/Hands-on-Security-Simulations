@@ -43,13 +43,9 @@ This project documents controlled DoS testing and secure log-handling activities
 
 > Note: This README intentionally avoids attack commands or exploit scripts. It documents results only.
 
----
+ 
 
-## How to reproduce (for reviewers)
-- Use isolated VMs on a private network you control.  
-- Use Wireshark to capture and `top` to observe system metrics.  
-- Encrypt logs locally with `gpg --symmetric` (choose a secure passphrase and do not store it in the repo).  
-- Use recipient public key for asymmetric encryption when sharing logs.
+ 
 
  
 
